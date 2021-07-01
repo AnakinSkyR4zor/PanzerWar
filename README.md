@@ -24,7 +24,7 @@ An open source tank game made by Unity3D game engine.
 
 1. Open menu Tools/ShanghaiWindy/Build/SceneBuilder .
 2. Switch platform to your building target.
-3. Click Relaod Cooked Scene Data.
+3. Click Reload Cooked Scene Data.
 4. Click Label Assets .
 5. Click Build Sub-Assets.
 
